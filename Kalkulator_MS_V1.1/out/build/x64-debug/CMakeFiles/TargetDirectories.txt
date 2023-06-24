@@ -1,0 +1,5 @@
+D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/Kalkulator_MSV2/CMakeFiles/Kalkulator_MSV2.dir
+D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/Kalkulator_MSV2/CMakeFiles/edit_cache.dir
+D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/Kalkulator_MSV2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Projekty programowanie/C++/Kalkulator/Kalkulator_MSV2/out/build/x64-debug/Kalkulator_MSV2/CMakeFiles/Kalkulator_MSV2.dir/embed.manifest"
